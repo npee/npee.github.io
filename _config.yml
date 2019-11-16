@@ -297,5 +297,5 @@ defaults:
     path: "_pages"
     type: pages
   values:
-    layou: single
+    layout: single
     author_profile: true
