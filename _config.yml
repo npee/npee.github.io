@@ -107,10 +107,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "엔피"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "아아아아아앙"
+  location         : "거제시"
   email            :
   links:
     - label: "Email"
@@ -292,3 +292,10 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _pages
+  - scope:
+    path: "_pages"
+    type: pages
+  values:
+    layou: single
+    author_profile: true
