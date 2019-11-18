@@ -21,11 +21,6 @@ pom.xml이 있는거 보니 maven이 맞긴 한것같다
 
 ---
 
-**깃허브에 저장?**
-<img src="{{ site.url }}/assets\image\spring\01-start\2019-11-13 170727_github.png" />
-
----
-
 **스프링 플러그인 설치**
 <img src="{{ site.url }}/assets\image\spring\01-start\2019-11-13 171548_marketplace.png" />
 사전에 되어있어야 할 작업
