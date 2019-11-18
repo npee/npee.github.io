@@ -5,7 +5,7 @@
 
 <center><img src="{{ site.url }}/assets\image\spring\02-setting\2019-11-14 231427_jrever.png" /></center>
 <p>Java 개발, 실행하는데 필요한 라이브러리.
-기본값으로 [J2SE-1.5]로 잡혀있다.<p>
+기본값으로 [J2SE-1.5]로 잡혀있다.</p>
 
 **JRE System Library 변경**
 <img src="{{ site.url }}/assets\image\spring\02-setting\2019-11-14 231950_javase8.png" />
